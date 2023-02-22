@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahalyahegde
 - 👀 I’m interested in Tech, Coding, Photography, Music
-- 🌱 I’m currently learning data engineering with Azure
+- 🌱 I’m currently working on data engineering with AWS and GCP
 - 💞️ I’m looking to collaborate on web-developement and data engineering
 - 📫 How to reach me Linkedin : https://www.linkedin.com/in/ahalyahegde/
 
